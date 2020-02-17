@@ -1,0 +1,9 @@
+C:\Users\Mihail\source\repos\BullAndCow\bin\Debug\BullAndCow.exe.config
+C:\Users\Mihail\source\repos\BullAndCow\bin\Debug\BullAndCow.exe
+C:\Users\Mihail\source\repos\BullAndCow\bin\Debug\BullAndCow.pdb
+C:\Users\Mihail\source\repos\BullAndCow\obj\Debug\BullAndCow.csprojAssemblyReference.cache
+C:\Users\Mihail\source\repos\BullAndCow\obj\Debug\BullAndCow.Form1.resources
+C:\Users\Mihail\source\repos\BullAndCow\obj\Debug\BullAndCow.Properties.Resources.resources
+C:\Users\Mihail\source\repos\BullAndCow\obj\Debug\BullAndCow.csproj.GenerateResource.cache
+C:\Users\Mihail\source\repos\BullAndCow\obj\Debug\BullAndCow.exe
+C:\Users\Mihail\source\repos\BullAndCow\obj\Debug\BullAndCow.pdb
